@@ -227,7 +227,7 @@ If you want to help contribute to this project, here are a few pointers that wil
 * You will also need the version of mocha written to work with bacon (aptly titled "mocha-on-bacon")
 * use "rake test" to kick off the test library.  Good to go!
 
-  $ git clone http://github.com/cldwalker/bond.git
-  $ sudo gem install bacon
-  $ sudo gem install mocha-on-bacon
-  $ rake test
+  git clone http://github.com/cldwalker/bond.git
+  sudo gem install bacon
+  sudo gem install mocha-on-bacon
+  rake test
